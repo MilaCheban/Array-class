@@ -8,5 +8,5 @@
 Склонировать репозиторий:
 
 bash
-git clone https://github.com/your_username/array-class.git
+git clone https://github.com/MilaCheban/Array-class/upload/main
 cd array-class
