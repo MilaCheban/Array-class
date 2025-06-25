@@ -9,4 +9,3 @@
 
 bash
 git clone https://github.com/MilaCheban/Array-class/upload/main
-cd array-class
